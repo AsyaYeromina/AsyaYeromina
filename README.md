@@ -49,13 +49,13 @@ I'm a Front-End Developer passionate about creating intuitive, responsive web ap
 ## 🚀 Featured Projects
 
 ### Brain Games
-[![Brain Games](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=brain-games&theme=radical)](https://github.com/AsyaYeromina/brain-games)
+[![Brain Games](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=frontend-project-lvl1&theme=radical)](https://github.com/AsyaYeromina/frontend-project-lvl1)
 - Set of 5 interactive console games (quiz) using Node.js
 - Implemented user input handling, game logic, and scoring system
 - **Technologies**: Node.js, JavaScript, CLI interfaces
 
 ### 2048 Puzzle Game
-[![2048](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=game-2048&theme=radical)](https://github.com/AsyaYeromina/game-2048)
+[![2048](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=js_2048_game&theme=radical)](https://github.com/AsyaYeromina/js_2048_game)
 - Browser-based version of the popular 2048 puzzle game
 - Implemented game mechanics, UI interactions, and local scoring tracking
 - **Technologies**: JavaScript, HTML5, CSS3
