@@ -55,6 +55,7 @@ with clean code and great user experiences.
 - Browser-based version of the popular 2048 puzzle game
 - Implemented game mechanics, UI interactions, and local scoring tracking
 - **Technologies**: JavaScript, HTML5, CSS3
+- [Play game](https://asyayeromina.github.io/js_2048_game/)
 
 <!--
 ### Internet Shop (E-commerce)
