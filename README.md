@@ -7,8 +7,8 @@ I'm a Front-End Developer passionate about creating intuitive, responsive web ap
 - 🔭 Currently seeking opportunities to work on real projects using React
 - 🌱 Learning advanced React patterns and TypeScript
 - 👯 Looking to collaborate in a team environment with knowledge sharing
-- 📊 Active on [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](https://www.codewars.com/users/AsyaYeromina) and [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AsyaYeromina/)
 - 🌐 Languages: Ukrainian, English, Polish
+- 📊 Active on [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](https://www.codewars.com/users/AsyaYeromina) and [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AsyaYeromina/)
 
 
 ## 🛠️ Technologies & Tools
@@ -57,24 +57,27 @@ I'm a Front-End Developer passionate about creating intuitive, responsive web ap
 - Implemented game mechanics, UI interactions, and local scoring tracking
 - **Technologies**: JavaScript, HTML5, CSS3
 
+<!--
 ### Internet Shop (E-commerce)
 [![Shop](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=react-shop&theme=ambient_gradient)](https://github.com/AsyaYeromina/react-shop)
 - Full-featured web store with product catalogue, product page and cart
 - Implemented state management and REST API integration
 - **Technologies**: TypeScript, React, Redux, REST API
-
+-->
 ---
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anastasia-yeromina-7136a031/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsyaYeromina)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/984448511066120192)
 
+
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsyaYeromina&show_icons=true&theme=transparent) ![GitHub Streak](https://streak-stats.demolab.com?user=AsyaYeromina&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=AsyaYeromina&theme=transparent) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsyaYeromina&show_icons=true&theme=transparent)
 <!-- &include_all_commits=true --> 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsyaYeromina&layout=compact&theme=transparent)--> 
 
