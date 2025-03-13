@@ -77,7 +77,7 @@ with clean code and great user experiences.
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AsyaYeromina&theme=transparent) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsyaYeromina&show_icons=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=AsyaYeromina&theme=transparent)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsyaYeromina&show_icons=true&theme=transparent)
 <!-- &include_all_commits=true --> 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsyaYeromina&layout=compact&theme=transparent)--> 
 
