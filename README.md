@@ -45,25 +45,24 @@ with clean code and great user experiences.
 ## 🚀 Featured Projects
 
 ### Brain Games
-[![Brain Games](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=frontend-project-lvl1&theme=ambient_gradient)](https://github.com/AsyaYeromina/frontend-project-lvl1)
+[![Brain Games](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=frontend-project-lvl1&theme=transparent)](https://github.com/AsyaYeromina/frontend-project-lvl1)
 - Set of 5 interactive console games (quiz) using Node.js
 - Implemented user input handling, game logic, and scoring system
 - **Technologies**: Node.js, JavaScript, CLI interfaces
 
 ### 2048 Puzzle Game
-[![2048](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=js_2048_game&theme=ambient_gradient)](https://github.com/AsyaYeromina/js_2048_game)
+[![2048](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=js_2048_game&theme=transparent)](https://github.com/AsyaYeromina/js_2048_game)
 - Browser-based version of the popular 2048 puzzle game
 - Implemented game mechanics, UI interactions, and local scoring tracking
 - **Technologies**: JavaScript, HTML5, CSS3
 - [Play game](https://asyayeromina.github.io/js_2048_game/)
 
-<!--
-### Internet Shop (E-commerce)
-[![Shop](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=react-shop&theme=ambient_gradient)](https://github.com/AsyaYeromina/react-shop)
+### Internet Shop
+[![Shop](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=Phone_Catalog&theme=transparent)](https://github.com/AsyaYeromina/Phone_Catalog)
 - Full-featured web store with product catalogue, product page and cart
 - Implemented state management and REST API integration
-- **Technologies**: TypeScript, React, Redux, REST API
--->
+- **Technologies**: TypeScript, React, Redux, REST API, css modules
+
 ---
 
 
@@ -81,5 +80,3 @@ with clean code and great user experiences.
 <!-- &include_all_commits=true --> 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsyaYeromina&layout=compact&theme=transparent)--> 
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=AsyaYeromina&theme=flat&rank=-?&margin-w=15)
