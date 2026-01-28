@@ -5,12 +5,12 @@
 I'm a Frontend Developer with commercial experience building user-friendly web applications.
 Currently working with React, Vue.js, TypeScript, and modern frontend tools to create responsive interfaces and intuitive user experiences.
 
-💼 Currently working at a product company on multiple projects (React, Vue 2, Chrome extensions)
-🚀 Taking ownership of project architecture, routing, and state management
-🌱 Growing expertise in TypeScript, Zustand, and browser extension development
-🤝 Collaborating with backend teams on API integration
-🌍 Languages: English (B2), Polish (B1), Ukrainian (native)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=fff)](https://www.codewars.com/users/AsyaYeromina) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AsyaYeromina/)
+- 💼 Currently working at a product company on multiple projects (React, Vue 2, Chrome extensions)
+- 🚀 Taking ownership of project architecture, routing, and state management
+- 🌱 Growing expertise in TypeScript, Zustand, and browser extension development
+- 🤝 Collaborating with backend teams on API integration
+- 🌍 Languages: English (B2), Polish (B1), Ukrainian (native)
+- [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=fff)](https://www.codewars.com/users/AsyaYeromina) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AsyaYeromina/)
 
 
 ## 🛠️ Technologies & Tools
