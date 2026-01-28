@@ -2,14 +2,15 @@
 
 
 ## 👩‍💻 About Me
-I'm a Front-End Developer passionate about creating intuitive, responsive web applications 
-with clean code and great user experiences.
+I'm a Frontend Developer with commercial experience building user-friendly web applications.
+Currently working with React, Vue.js, TypeScript, and modern frontend tools to create responsive interfaces and intuitive user experiences.
 
-- Currently seeking opportunities **to work on real projects using React**
-- Learning advanced React patterns and TypeScript
-- Looking to collaborate in a team environment with knowledge sharing
-- Languages: English, Ukrainian, Polish
-- [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=fff)](https://www.codewars.com/users/AsyaYeromina) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AsyaYeromina/)
+💼 Currently working at a product company on multiple projects (React, Vue 2, Chrome extensions)
+🚀 Taking ownership of project architecture, routing, and state management
+🌱 Growing expertise in TypeScript, Zustand, and browser extension development
+🤝 Collaborating with backend teams on API integration
+🌍 Languages: English (B2), Polish (B1), Ukrainian (native)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=fff)](https://www.codewars.com/users/AsyaYeromina) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AsyaYeromina/)
 
 
 ## 🛠️ Technologies & Tools
@@ -18,8 +19,11 @@ with clean code and great user experiences.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Vue2](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chart.js&logoColor=white)
 
 ### Styling
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -27,6 +31,7 @@ with clean code and great user experiences.
 ![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS/SCSS](https://img.shields.io/badge/SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=bem&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -37,12 +42,31 @@ with clean code and great user experiences.
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Parcel](https://img.shields.io/badge/Parcel-21374B?style=for-the-badge&logo=parcel&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Plasmo](https://img.shields.io/badge/Plasmo-4B32C3?style=for-the-badge&logo=chrome&logoColor=white)
 
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+
 ---
 ## 🚀 Featured Projects
+
+### Browser Extension Development
+- Built a Chrome extension from scratch using Plasmo, React, and Zustand
+- Implemented user authentication and dynamic content injection
+- Integrated with main application APIs
+
+### Multi-Project Management
+- Working across 4 concurrent projects (Vue 2 main app, React extension, new React/TS app, landing pages)
+- Taking ownership of project setup and architecture decisions
+- Collaborating with backend developers on API integration
+
+### First Coin
+[![Brain Games](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=FirstCoin&theme=transparent)](https://github.com/AsyaYeromina/FirstCoin)
+- App for financial literacy for children
+- Currently developing Pet project - in progress...
+- **Technologies**: React, TypeScript
 
 ### Brain Games
 [![Brain Games](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=frontend-project-lvl1&theme=transparent)](https://github.com/AsyaYeromina/frontend-project-lvl1)
@@ -57,11 +81,6 @@ with clean code and great user experiences.
 - **Technologies**: JavaScript, HTML5, CSS3
 - [Play game](https://asyayeromina.github.io/js_2048_game/)
 
-### Internet Shop
-[![Shop](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=Phone_Catalog&theme=transparent)](https://github.com/AsyaYeromina/Phone_Catalog)
-- Full-featured web store with product catalogue, product page and cart
-- Implemented state management and REST API integration
-- **Technologies**: TypeScript, React, Redux, REST API, css modules
 
 ---
 
