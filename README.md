@@ -2,14 +2,14 @@
 
 
 ## 👩‍💻 About Me
-I'm a Frontend Developer with commercial experience building user-friendly web applications.
+I'm a Frontend Developer with several years of experience building various UIs.
 Currently working with React, Vue.js, TypeScript, and modern frontend tools to create responsive interfaces and intuitive user experiences.
 
 - 💼 Currently working at a product company on multiple projects (React, Vue 2, Chrome extensions)
-- 🚀 Taking ownership of project architecture, routing, and state management
-- 🌱 Growing expertise in TypeScript, Zustand, and browser extension development
-- 🤝 Collaborating with backend teams on API integration
-- 🌍 Languages: English (B2), Polish (B1), Ukrainian (native)
+- 🚀 Taking technical ownership of architecture, reliability, and state management on the project, I'm responsible for (Chrome extension) - React, Zustand, CSS Modules, Plasmo
+- 🌱 Contributing to greenfield project: auth logic, routing, API integration - React, Typescript, Tailwind, Vitest
+- 📊 Maintaining seller's analytical platform with complex UI (tables, dashboards, charts) - Vue2, Vuex, Vuetify
+- 🌍 Languages: English (C1), Polish (B1), Ukrainian (native)
 - [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=fff)](https://www.codewars.com/users/AsyaYeromina) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/AsyaYeromina/)
 
 
@@ -58,13 +58,13 @@ Currently working with React, Vue.js, TypeScript, and modern frontend tools to c
 - Integrated with main application APIs
 
 ### Multi-Project Management
-- Working across 4 concurrent projects (Vue 2 main app, React extension, new React/TS app, landing pages)
+- Working across 4 projects simultaneously (Vue 2 main app, React extension, new React/TS application, and landing pages)
 - Taking ownership of project setup and architecture decisions
 - Collaborating with backend developers on API integration
 
 ### First Coin
 [![Brain Games](https://github-readme-stats.vercel.app/api/pin/?username=AsyaYeromina&repo=FirstCoin&theme=transparent)](https://github.com/AsyaYeromina/FirstCoin)
-- App for financial literacy for children
+- PWA for kids to introduce them to financial literacy (quantity visualization)
 - Currently developing Pet project - in progress...
 - **Technologies**: React, TypeScript
 
@@ -85,9 +85,8 @@ Currently working with React, Vue.js, TypeScript, and modern frontend tools to c
 ---
 
 
-## 🌐 Connect With Me
+## 🌐 Contact Me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anastasia-yeromina-7136a031/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsyaYeromina)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/984448511066120192)
 
 
